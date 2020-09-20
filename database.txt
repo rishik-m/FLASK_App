@@ -1,0 +1,5 @@
+email,subject,message
+rishik.makhija2000@gmail.com, Full Stack, Hi!!!
+af@gb.com, hsbj, shbjs
+a@a.com, ddjj, dkjid
+a@c.com, rgth, dfggb
